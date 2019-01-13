@@ -1,0 +1,9 @@
+setup.py
+cvideo/__init__.py
+cvideo/centroidtracker.py
+cvideo/video.py
+cvideo.egg-info/PKG-INFO
+cvideo.egg-info/SOURCES.txt
+cvideo.egg-info/dependency_links.txt
+cvideo.egg-info/requires.txt
+cvideo.egg-info/top_level.txt
